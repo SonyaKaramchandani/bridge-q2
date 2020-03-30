@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Mozelle Broxap",
+    "location": "Toronto",
+    "favouriteFoods": ["sushi"]
+  },
+  {
+    "name": "Carol-jean Tremmil",
+    "location": "Halifax",
+    "favouriteFoods": ["sushi", "BBQ"]
+  },
+  {
+    "name": "Lizabeth Ewert",
+    "location": "Vancouver",
+    "favouriteFoods": ["ramen", "steak", "sushi", "ice cream"]
+  },
+  {
+    "name": "Enriqueta Dewitt",
+    "location": "Vancouver",
+    "favouriteFoods": ["indian", "ice cream", "italian"]
+  },
+  {
+    "name": "Valle Brettel",
+    "location": "Toronto",
+    "favouriteFoods": ["BBQ", "greek", "salads", "sushi"]
+  },
+  {
+    "name": "Katusha Crumpe",
+    "location": "Toronto",
+    "favouriteFoods": ["greek", "salads", "Sushi"]
+  },
+  {
+    "name": "Mallissa Gedling",
+    "location": "Vancouver",
+    "favouriteFoods": ["italian", "tacos", "caribbean"]
+  }
+]
